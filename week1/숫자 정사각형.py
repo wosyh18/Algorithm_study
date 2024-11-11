@@ -1,5 +1,5 @@
 n, m = map(int, input().split())
-matrix = [list(input()) for _ in range(N)]
+matrix = [list(input()) for _ in range(n)]
 
 max_length = 1
 
